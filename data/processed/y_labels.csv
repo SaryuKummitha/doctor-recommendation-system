@@ -1,0 +1,305 @@
+case_id,Disease
+0,Fungal infection
+1,Fungal infection
+2,Fungal infection
+3,Fungal infection
+4,Fungal infection
+5,Allergy
+6,Allergy
+7,Allergy
+8,Allergy
+9,Allergy
+10,GERD
+11,GERD
+12,GERD
+13,GERD
+14,GERD
+15,GERD
+16,GERD
+17,Chronic cholestasis
+18,Chronic cholestasis
+19,Chronic cholestasis
+20,Chronic cholestasis
+21,Chronic cholestasis
+22,Chronic cholestasis
+23,Chronic cholestasis
+24,Chronic cholestasis
+25,Drug Reaction
+26,Drug Reaction
+27,Drug Reaction
+28,Drug Reaction
+29,Drug Reaction
+30,Drug Reaction
+31,Peptic ulcer disease
+32,Peptic ulcer disease
+33,Peptic ulcer disease
+34,Peptic ulcer disease
+35,Peptic ulcer disease
+36,Peptic ulcer disease
+37,Peptic ulcer disease
+38,AIDS
+39,AIDS
+40,AIDS
+41,AIDS
+42,AIDS
+43,Diabetes
+44,Diabetes
+45,Diabetes
+46,Diabetes
+47,Diabetes
+48,Diabetes
+49,Diabetes
+50,Diabetes
+51,Diabetes
+52,Gastroenteritis
+53,Gastroenteritis
+54,Gastroenteritis
+55,Gastroenteritis
+56,Gastroenteritis
+57,Bronchial Asthma
+58,Bronchial Asthma
+59,Bronchial Asthma
+60,Bronchial Asthma
+61,Bronchial Asthma
+62,Bronchial Asthma
+63,Bronchial Asthma
+64,Hypertension
+65,Hypertension
+66,Hypertension
+67,Hypertension
+68,Hypertension
+69,Hypertension
+70,Migraine
+71,Migraine
+72,Migraine
+73,Migraine
+74,Migraine
+75,Migraine
+76,Migraine
+77,Migraine
+78,Migraine
+79,Migraine
+80,Cervical spondylosis
+81,Cervical spondylosis
+82,Cervical spondylosis
+83,Cervical spondylosis
+84,Cervical spondylosis
+85,Cervical spondylosis
+86,Paralysis (brain hemorrhage)
+87,Paralysis (brain hemorrhage)
+88,Paralysis (brain hemorrhage)
+89,Paralysis (brain hemorrhage)
+90,Paralysis (brain hemorrhage)
+91,Jaundice
+92,Jaundice
+93,Jaundice
+94,Jaundice
+95,Jaundice
+96,Jaundice
+97,Jaundice
+98,Jaundice
+99,Jaundice
+100,Malaria
+101,Malaria
+102,Malaria
+103,Malaria
+104,Malaria
+105,Malaria
+106,Malaria
+107,Malaria
+108,Chicken pox
+109,Chicken pox
+110,Chicken pox
+111,Chicken pox
+112,Chicken pox
+113,Chicken pox
+114,Chicken pox
+115,Chicken pox
+116,Chicken pox
+117,Chicken pox
+118,Dengue
+119,Dengue
+120,Dengue
+121,Dengue
+122,Dengue
+123,Dengue
+124,Dengue
+125,Dengue
+126,Dengue
+127,Dengue
+128,Typhoid
+129,Typhoid
+130,Typhoid
+131,Typhoid
+132,Typhoid
+133,Typhoid
+134,Typhoid
+135,Typhoid
+136,Typhoid
+137,Hepatitis A
+138,Hepatitis A
+139,Hepatitis A
+140,Hepatitis A
+141,Hepatitis A
+142,Hepatitis A
+143,Hepatitis A
+144,Hepatitis A
+145,Hepatitis A
+146,Hepatitis B
+147,Hepatitis B
+148,Hepatitis B
+149,Hepatitis B
+150,Hepatitis B
+151,Hepatitis B
+152,Hepatitis B
+153,Hepatitis B
+154,Hepatitis B
+155,Hepatitis C
+156,Hepatitis C
+157,Hepatitis C
+158,Hepatitis C
+159,Hepatitis C
+160,Hepatitis C
+161,Hepatitis C
+162,Hepatitis D
+163,Hepatitis D
+164,Hepatitis D
+165,Hepatitis D
+166,Hepatitis D
+167,Hepatitis D
+168,Hepatitis D
+169,Hepatitis D
+170,Hepatitis D
+171,Hepatitis D
+172,Hepatitis E
+173,Hepatitis E
+174,Hepatitis E
+175,Hepatitis E
+176,Hepatitis E
+177,Hepatitis E
+178,Hepatitis E
+179,Hepatitis E
+180,Hepatitis E
+181,Alcoholic hepatitis
+182,Alcoholic hepatitis
+183,Alcoholic hepatitis
+184,Alcoholic hepatitis
+185,Alcoholic hepatitis
+186,Alcoholic hepatitis
+187,Alcoholic hepatitis
+188,Alcoholic hepatitis
+189,Tuberculosis
+190,Tuberculosis
+191,Tuberculosis
+192,Tuberculosis
+193,Tuberculosis
+194,Tuberculosis
+195,Tuberculosis
+196,Tuberculosis
+197,Tuberculosis
+198,Common Cold
+199,Common Cold
+200,Common Cold
+201,Common Cold
+202,Common Cold
+203,Common Cold
+204,Common Cold
+205,Common Cold
+206,Common Cold
+207,Pneumonia
+208,Pneumonia
+209,Pneumonia
+210,Pneumonia
+211,Pneumonia
+212,Pneumonia
+213,Pneumonia
+214,Pneumonia
+215,Pneumonia
+216,Hemorrhoids (piles)
+217,Hemorrhoids (piles)
+218,Hemorrhoids (piles)
+219,Hemorrhoids (piles)
+220,Hemorrhoids (piles)
+221,Hemorrhoids (piles)
+222,Heart attack
+223,Heart attack
+224,Heart attack
+225,Heart attack
+226,Heart attack
+227,Varicose veins
+228,Varicose veins
+229,Varicose veins
+230,Varicose veins
+231,Varicose veins
+232,Varicose veins
+233,Varicose veins
+234,Varicose veins
+235,Hypothyroidism
+236,Hypothyroidism
+237,Hypothyroidism
+238,Hypothyroidism
+239,Hypothyroidism
+240,Hypothyroidism
+241,Hypothyroidism
+242,Hypothyroidism
+243,Hyperthyroidism
+244,Hyperthyroidism
+245,Hyperthyroidism
+246,Hyperthyroidism
+247,Hyperthyroidism
+248,Hyperthyroidism
+249,Hyperthyroidism
+250,Hyperthyroidism
+251,Hyperthyroidism
+252,Hypoglycemia
+253,Hypoglycemia
+254,Hypoglycemia
+255,Hypoglycemia
+256,Hypoglycemia
+257,Hypoglycemia
+258,Hypoglycemia
+259,Hypoglycemia
+260,Hypoglycemia
+261,Osteoarthritis
+262,Osteoarthritis
+263,Osteoarthritis
+264,Osteoarthritis
+265,Osteoarthritis
+266,Osteoarthritis
+267,Osteoarthritis
+268,Arthritis
+269,Arthritis
+270,Arthritis
+271,Arthritis
+272,Arthritis
+273,Arthritis
+274,Paroxysmal Positional Vertigo
+275,Paroxysmal Positional Vertigo
+276,Paroxysmal Positional Vertigo
+277,Paroxysmal Positional Vertigo
+278,Paroxysmal Positional Vertigo
+279,Paroxysmal Positional Vertigo
+280,Paroxysmal Positional Vertigo
+281,Acne
+282,Acne
+283,Acne
+284,Acne
+285,Acne
+286,Urinary tract infection
+287,Urinary tract infection
+288,Urinary tract infection
+289,Urinary tract infection
+290,Urinary tract infection
+291,Psoriasis
+292,Psoriasis
+293,Psoriasis
+294,Psoriasis
+295,Psoriasis
+296,Psoriasis
+297,Psoriasis
+298,Impetigo
+299,Impetigo
+300,Impetigo
+301,Impetigo
+302,Impetigo
+303,Impetigo
